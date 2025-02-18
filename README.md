@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por la tecnología y la programación web tanto 
 
 ## Tecnologías y Herramientas
 - **Lenguajes de Programación:** JavaScript, Java, Php, TypeScript 💻
-- **Frameworks:** React, Node.js, Angular, Laravel 🌐
+- **Frameworks:**Angular, Laravel 🌐
 - **Herramientas:** Git, Docker, VS Code, IntelliJ 🛠️
 
 ## Contacto
